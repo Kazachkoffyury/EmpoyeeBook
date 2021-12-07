@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ru.skypro</groupId>
-    <artifactId>EmpoyeeBook</artifactId>
+    <artifactId>EmployeeBook</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>EmpoyeeBook</name>
-    <description>EmpoyeeBook</description>
+    <name>EmployeeBook</name>
+    <description>EmployeeBook</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
@@ -26,6 +26,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>5.3.13</version>
         </dependency>
     </dependencies>
 

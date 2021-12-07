@@ -1,4 +1,4 @@
-package ru.skypro.empoyeebook;
+package ru.skypro.employeebook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
