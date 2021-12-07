@@ -1,13 +1,13 @@
-package ru.skypro.empoyeebook;
+package ru.skypro.employeebook;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EmpoyeeBookApplication {
+public class EmployeeBookApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EmpoyeeBookApplication.class, args);
+        SpringApplication.run(EmployeeBookApplication.class, args);
     }
 
 }
